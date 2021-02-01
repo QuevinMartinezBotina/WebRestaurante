@@ -1,0 +1,34 @@
+#Barra{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+
+.icono{
+    transition: all 300ms;
+    text-shadow: 4px 4px rgb(175, 171, 171);
+
+}
+
+
+
+
+
+.logo:hover .icono{
+    transform: scale(1.1,1.1);
+   text-shadow: 4px 4px rgb(184, 183, 183);
+  
+    
+}
+
+
+@media (max-width:800px){
+    .margen-mini{
+        margin-top: 150px;
+    }
+}
+
+
+
+
+    
